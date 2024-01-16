@@ -2,6 +2,7 @@
 
 # Logs
 
+config.ts
 logs
 _.log
 npm-debug.log_
